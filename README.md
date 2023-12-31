@@ -80,11 +80,6 @@ SpaceXPrediction/
 [Presentation](https://github.com/adarsh-k-tiwari/IBMPracticeLab/blob/main/Capstone%20Project%20SpaceY-Final.pdf)
 
 
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
 ## Results and Evaluation
 
 Here are some related projects
